@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Sanz</h1>
-### <div align="center">Como desarrollador Full Stack con experiencia en desarrollo web, ofrezco soluciones efectivas para satisfacer sus necesidades empresariales. Trabajo bien en equipo y entrego proyectos a tiempo y dentro del presupuesto. Tengo habilidades en Javascript, Python, CSS y HTML, y estoy comprometido a aprender nuevas tecnologías para ofrecer soluciones innovadoras. Estoy actualizado sobre las mejores prácticas y tendencias de la industria. Mi portafolio y cuenta de GitHub tienen ejemplos de mis proyectos anteriores. ¡Estoy emocionado por trabajar con usted! 🚀</div>  
+<div align="center">Como desarrollador Full Stack con experiencia en desarrollo web, ofrezco soluciones efectivas para satisfacer sus necesidades empresariales. Trabajo bien en equipo y entrego proyectos a tiempo y dentro del presupuesto. Tengo habilidades en Javascript, Python, CSS y HTML, y estoy comprometido a aprender nuevas tecnologías para ofrecer soluciones innovadoras. Estoy actualizado sobre las mejores prácticas y tendencias de la industria. Mi portafolio y cuenta de GitHub tienen ejemplos de mis proyectos anteriores. ¡Estoy emocionado por trabajar con usted! 🚀</div>  
   
 
 <br/>  
