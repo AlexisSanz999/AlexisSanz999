@@ -76,4 +76,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexisSanz999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+<h2>
+  :pushpin: My Projects
+  </h2>
+  <a href = "https://www.youtube.com/watch?v=uyV-fw3TL8M">
+   <img align="center" src="https://github.com/CaroRuvira/CaroRuvira/blob/main/Brainlyportada.png"/>
